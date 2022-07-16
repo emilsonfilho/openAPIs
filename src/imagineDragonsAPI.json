@@ -1,0 +1,388 @@
+[
+  {
+    "name": "Imagine Dragons",
+    "albuns": [
+      {
+        "albumName": "Night Visions",
+        "year": 2012,
+        "artist ": "Imagine Dragons",
+        "image": "https://upload.wikimedia.org/wikipedia/pt/3/3f/Night_Visions_Album_Cover.jpeg?20141101233414",
+        "genre": "Indie rock, rock alternativo",
+        "duration": "42:10",
+        "language": "English",
+        "musics": [
+          {
+            "musicName": "Radioactive",
+            "linkSpotify": "https://open.spotify.com/track/62yJjFtgkhUrXktIoSjgP2?si\u003dfEtwHnb0RjOlfSzITvDlGA\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/ktvTqknDobU"
+          },
+          {
+            "musicName": "TipToe",
+            "linkSpotify": "https://open.spotify.com/track/7lBPn6LpIvbvAihTRvBMig?si\u003dMHi4W7-9SoCBedk4PKASCQ\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/tvewCDvWMIY"
+          },
+          {
+            "musicName": "Demons",
+            "linkSpotify": "https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR?si\u003dhXIx3ISxSm-i--3bXaWKBg\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/mWRsgZuwf_8"
+          },
+          {
+            "musicName": "It\u0027s Time",
+            "linkSpotify": "https://open.spotify.com/track/7MXlTgQeo3IVlMpLnZuhxc?si\u003dsFWUITmpSNSOaqFSWd-g3A\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/W9ktZpfquAE"
+          },
+          {
+            "musicName": "On Top Of The World",
+            "linkSpotify": "https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w?si\u003d5_0Vh0_xSk6UvacDhzsE_g\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/w5tWYmIOWGk"
+          },
+          {
+            "musicName": "Amsterdam",
+            "linkSpotify": "https://open.spotify.com/track/5gXdinVZqeuDIVxogWzRk0?si\u003dKQnwfdjDT0mruXOdSNSoLw\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/TKtPXO5iEnA"
+          },
+          {
+            "musicName": "Hear Me",
+            "linkSpotify": "https://open.spotify.com/track/2OgOgEBfiZEj2XlIY2XD7f?si\u003dd5Jfa0sUQhObhQPcfPM1Fw\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/H2WA3qdDfd4"
+          },
+          {
+            "musicName": "Every Night",
+            "linkSpotify": "https://open.spotify.com/track/5raubQ8TVZTJO1PFs2bpwq?si\u003djpEVHBYcQNmQoHPmoA6rTw\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/nHJcQBYF_SQ"
+          },
+          {
+            "musicName": "Bleeding Out",
+            "linkSpotify": "https://open.spotify.com/track/1oQjPp1I7cwVE24JivbhzT?si\u003dp2Qzf-NMQ1-sH6NRKETHHw\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/kcMU_iT9aDM"
+          },
+          {
+            "musicName": "Underdog",
+            "linkSpotify": "https://open.spotify.com/track/25dAGIi1Psxz5kzlNelPLN?si\u003dxlpCEp2eQHqulVkfZZ4oog\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/W8Vz1bIZRl4"
+          },
+          {
+            "musicName": "Nothing Left To Say / Rocks",
+            "linkSpotify": "https://open.spotify.com/track/300tML2o8yHO4WrDtG2gxO?si\u003dULPiFAZuRnSjXphT1y6iXA\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/mGv0ze0lHKA"
+          }
+        ],
+        "background": "#1B1A40"
+      },
+      {
+        "albumName": "Smoke + Mirrors",
+        "year": 2015,
+        "artist": "Imagine Dragons",
+        "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/2f/Smoke_and_Mirrors_album_cover.jpeg/220px-Smoke_and_Mirrors_album_cover.jpeg",
+        "genrer": "Indie rock, rock alternativo",
+        "duration": "50:55",
+        "language": "English",
+        "musics": [
+          {
+            "musicName": "Shots",
+            "linkSpotify": "https://open.spotify.com/track/2h6HdN3oPr4JijIQV29hv1?si\u003dhnP1aUeXTla54XW2vGgFiQ\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/qQrgto184Tk"
+          },
+          {
+            "musicName": "Gold",
+            "linkSpotify": "https://open.spotify.com/track/4IMMdhs18OjvvhDok5mJxW?si\u003dskSa3qSxTrqg54LyHW9cKw\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/Rl3ELiPXFRo"
+          },
+          {
+            "musicName": "Smoke And Mirrors",
+            "linkSpotify": "https://open.spotify.com/track/6Aiu4fCAEzvXpjmy1HsJxM?si\u003dP7uOld8VT--IqI9WuDccnw\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/iPaxPKqvoXg"
+          },
+          {
+            "musicName": "I\u0027m So Sorry",
+            "linkSpotify": "https://open.spotify.com/track/0GCXZmk0Uf74BdgWl0GaX2?si\u003dHWkIihbRQkK0JYDYtX_SAA\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/0HgJwrwEEKQ"
+          },
+          {
+            "musicName": "I Bet My Life",
+            "linkSpotify": "https://open.spotify.com/track/0h9SUGpAofhus8HUgNXVwW?si\u003dqkaw4iW-TJ61QgLPGtyedg\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/ey_2d_vis1M"
+          },
+          {
+            "musicName": "Polaroid",
+            "linkSpotify": "https://open.spotify.com/track/2Mi65Ygq54y5O4vSxBNWkV?si\u003dpxlziKdWS7aCJvwX4jYyeA\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/z6l5bhPs-PU"
+          },
+          {
+            "musicName": "Friction",
+            "linkSpotify": "https://open.spotify.com/track/37ebs6hDGOWK8SDAB2kZG5?si\u003djq-_X1yhQbWjgv1SJCKKfw\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/AH6Vqt_oEkw"
+          },
+          {
+            "musicName": "It Comes Back To You",
+            "linkSpotify": "https://open.spotify.com/track/1iQbbaCHErMsmP6eUQyVvf?si\u003dIwDGM5_eTRqRvMnp3jbL-A\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/C3JJrximlgQ"
+          },
+          {
+            "musicName": "Dream",
+            "linkSpotify": "https://open.spotify.com/track/0Wnzdtso3gHPcSFZwT2Pi9?si\u003dr03lXUvmQnKkhKZYItPr8A\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/Xqk9LqK9wYQ"
+          },
+          {
+            "musicName": "Trouble",
+            "linkSpotify": "https://open.spotify.com/track/7HfILFCt8XErcfd25feE6A?si\u003dzBQYAIoJSQaK1Bfd3_6fMw\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/k7bAATUtHHo"
+          },
+          {
+            "musicName": "Summer",
+            "linkSpotify": "https://open.spotify.com/track/1AZY4tKB3obBrQHVz0feOf?si\u003dj5l9QBfkTdyVOSFgdwIWaQ\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/KOKz37OJ2R8"
+          },
+          {
+            "musicName": "Hopeless Opus",
+            "linkSpotify": "https://open.spotify.com/track/6LNRspXRgIXWVpjVXpnLBm?si\u003dKuayWxZoSX2XKfKZMr5Unw\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/91rrbNAJqQ8"
+          },
+          {
+            "musicName": "The Fall",
+            "linkSpotify": "https://open.spotify.com/track/6PZ2TaWkJBwlD1QxenOtpq?si\u003dmjlIJVB8TcWRDfeTt7vm4Q\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/AuMpkdBwK0I"
+          }
+        ],
+        "background": "#F2CD5C"
+      },
+      {
+        "albumName": "Evolve",
+        "year": 2017,
+        "artist": "Imagine Dragons",
+        "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b5/ImagineDragonsEvolve.jpg/220px-ImagineDragonsEvolve.jpg",
+        "genrer": "Indie rock, rock alternativo, pop rock",
+        "duration": "39:12",
+        "language": "English",
+        "musics": [
+          {
+            "nameMusic": "Next To Me",
+            "linkSpotify": "https://open.spotify.com/track/31VOknKjFrEX47bZXzqcoF?si\u003dSgnOgLoaRWK27lBq-k2CmQ\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/-C_rvt0SwLE"
+          },
+          {
+            "nameMusic": "I Don\u0027t Know Why",
+            "linkSpotify": "https://open.spotify.com/track/28heol5hhOGj6KYbJrRteJ?si\u003dMOJDt12VTdmh9JjIy2F_pw\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/vP4XUtl7owg"
+          },
+          {
+            "nameMusic": "Whatever It Takes",
+            "linkSpotify": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb?si\u003dqyFrKNV7Q_2xvuxuP_tMgQ\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/gOsM-DYAEhY"
+          },
+          {
+            "nameMusic": "Believer",
+            "linkSpotify": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP?si\u003ddSbhyqJOQKCgPesbJM06nw\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/7wtfhZwyrcc"
+          },
+          {
+            "nameMusic": "Walking The Wire",
+            "linkSpotify": "https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08?si\u003d1EeV6x4nRAyeDP0Pj-87jQ\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/1nv9br7P7g0"
+          },
+          {
+            "nameMusic": "Rise Up",
+            "linkSpotify": "https://open.spotify.com/track/3zT2616WcD9Df5m21OsCX0?si\u003d5UrbPsujSii7haRri2-04g\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/x12CWu3V0lg"
+          },
+          {
+            "nameMusic": "I\u0027ll Make It Up To You",
+            "linkSpotify": "https://open.spotify.com/track/0FfX0nofboxZjP0diT1eFv?si\u003dXFqugCHNRrSfigG-5Kq3gQ\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/q6KvD4kZv94"
+          },
+          {
+            "nameMusic": "Yesterday",
+            "linkSpotify": "https://open.spotify.com/track/2SJf7W18D1AEpr8L9ATu0c?si\u003dU7E3rwMHRF65AEUG5EjIJg\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/dJfYS0rVrbk"
+          },
+          {
+            "nameMusic": "Mouth Of The River",
+            "linkSpotify": "https://open.spotify.com/track/1dekgAFF9uTCqLsklDaCWb?si\u003d95AFR9YDSMKKrOkKyzAW-w\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/YiZCzG4RF1M"
+          },
+          {
+            "nameMusic": "Thunder",
+            "linkSpotify": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB?si\u003d3U6EtO5ySiKXVH_VWoKTQg\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/fKopy74weus"
+          },
+          {
+            "nameMusic": "Start Over",
+            "linkSpotify": "https://open.spotify.com/track/2Iug43iQrHN8CbGsUd2tEt?si\u003d3jjgC5pYTTyDlVhPmnocoQ\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/2SD2e0TDb4A"
+          },
+          {
+            "nameMusic": "Dancing In The Dark",
+            "linkSpotify": "https://open.spotify.com/track/3adVVrcE2KS26OL4rYd27O?si\u003dW83fRQq7SOW0Md2QKfNOUw\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/WFlSIPdYBpE"
+          }
+        ],
+        "background": "#0B261E"
+      },
+      {
+        "albumName": "Origins",
+        "year": 2018,
+        "artist": "Imagine Dragons",
+        "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/e/e9/Origins_Imagine_Dragons.png/220px-Origins_Imagine_Dragons.png",
+        "genrer": "Alternativa/indie, pop",
+        "duration": "40:02",
+        "language": "English",
+        "musics": [
+          {
+            "musicName": "Natural",
+            "linkSpotify": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT?si\u003duB0hJr0JRIijUN89f7fn_w\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/0I647GU3Jsc"
+          },
+          {
+            "musicName": "Boomerang",
+            "linkSpotify": "https://open.spotify.com/track/2B1fuWoWaYnCXbjYp1gXg5?si\u003dtpbneUfzR_G26XPKZwv4FQ\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/Ycemuc7Fk_U"
+          },
+          {
+            "musicName": "Machine",
+            "linkSpotify": "https://open.spotify.com/track/4uGY9CqDtGtaTTLg1cgsWD?si\u003dzkT3tQiuTAiWiZILH7MLkg\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/BahtnT13vH8"
+          },
+          {
+            "musicName": "Cool Out",
+            "linkSpotify": "https://open.spotify.com/track/6LXMUR2rpxFBDo6nilS3yX?si\u003dKNGPc6wRQHO0BYYAvr0o9A\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/x0ZxutzmFUU"
+          },
+          {
+            "musicName": "Bad Liar",
+            "linkSpotify": "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3?si\u003deLYU7l1LQCyC12IkrJXZhw\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/I-QfPUz1es8"
+          },
+          {
+            "musicName": "West Coast",
+            "linkSpotify": "https://open.spotify.com/track/2nkoWsTZa8LKPNGdjI5uxj?si\u003dKuu52lKLRTO9jbuGgF49PA\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/lgsyzQD-wBY"
+          },
+          {
+            "musicName": "Zero",
+            "linkSpotify": "https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi?si\u003dHy6mkgvpRP2iyo61vM-0Sg\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/j60ClcNYWu4"
+          },
+          {
+            "musicName": "Bullet in a Gun",
+            "linkSpotify": "https://open.spotify.com/track/3R4Xk37WTagjzODMNEQLvs?si\u003dWVKpYC7lQ0-ZcqkKFwaFPQ\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/LHWYaV6WLQo"
+          },
+          {
+            "musicName": "Digital",
+            "linkSpotify": "https://open.spotify.com/track/4qhDA6s0MkD5XpDqGLHIEY?si\u003dmbwcB6mXRnS1dEy91biPdQ\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/tcbWjCYkQuE"
+          },
+          {
+            "musicName": "Only",
+            "linkSpotify": "https://open.spotify.com/track/1uRBbjQ3uNFXCncWyNomHf?si\u003dG22TocBQRYC4u6HlK-HYKA\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/xAn9O9oZG7U"
+          },
+          {
+            "musicName": "Stuck",
+            "linkSpotify": "https://open.spotify.com/track/5Z9SQPYU95S6M1vcbLsDt2?si\u003d5-Ca5qmXRgOqYTui0Bcacw\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/dhcj6PoarrA"
+          },
+          {
+            "musicName": "Love",
+            "linkSpotify": "https://open.spotify.com/track/5d41vXH0zvpwUrHrmqKqDc?si\u003dHT5Iz62gQ7qbj-lZA-rVVA\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/cQbAm4dIDKA"
+          },
+          {
+            "musicName": "Birds",
+            "linkSpotify": "https://open.spotify.com/track/6Tvzf3VEi16JMhAgOwdt2y?si\u003da6P_OZzISFKd849rvEI5aQ\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/vOXZkm9p_zY"
+          },
+          {
+            "musicName": "Burn Out",
+            "linkSpotify": "https://open.spotify.com/track/5Q7zuH8VNu7aLappSusPu6?si\u003dr-QGi2_CTIaCKcL_4tAqBg\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/AcJ6Vv9pMeA"
+          },
+          {
+            "musicName": "Real Life",
+            "linkSpotify": "https://open.spotify.com/track/7JAzAyjbJFPznEFdqpa1Si?si\u003dtSksAvYeQZOKBk0WkYEKzg\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/_esJ3ciMH1c"
+          }
+        ],
+        "background": "#387336"
+      },
+      {
+        "albumName": "Mercury — Act 1",
+        "year": 2021,
+        "artist": "Imagine Dragons",
+        "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d9/Imagine_Dragons_-_Mercury_Act_1_capa.png/220px-Imagine_Dragons_-_Mercury_Act_1_capa.png",
+        "genrer": "Pop rock",
+        "duration": "42:04",
+        "language": "English",
+        "musics": [
+          {
+            "musicName": "My Life",
+            "linkSpotify": "https://open.spotify.com/track/0E0kxko3i9b5JxxMoGH3At?si\u003d2adUa4YpRyCZ0VZ9qSFeOQ\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/CBDT9LkrrVc"
+          },
+          {
+            "musicName": "Lonely",
+            "linkSpotify": "https://open.spotify.com/track/1VMBapbhHidf6ALFszT7w1?si\u003dTeYK3QPORCCb1fQjtKERVQ\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/yUbTU1ojKho"
+          },
+          {
+            "musicName": "Wrecked",
+            "linkSpotify": "https://open.spotify.com/track/6TEftSkmWdTm1EpThnwqh6?si\u003dMrGd7plmQWKjiS42pRq2MQ\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/Y2NkuFIlLEo"
+          },
+          {
+            "musicName": "Monday",
+            "linkSpotify": "https://open.spotify.com/track/747LeNCUC3bF2h43E73rFh?si\u003drlQttCubS-aA6AevuTRwYw\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/suHvGQYTAG0"
+          },
+          {
+            "musicName": "#1",
+            "linkSpotify": "https://open.spotify.com/track/0eO2zq5fjPt41BreFmiIKw?si\u003dyh-XRJTnSvmCht5mg4Sstg\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/ywhcvOy16_E"
+          },
+          {
+            "musicName": "Easy Come Easy Go",
+            "linkSpotify": "https://open.spotify.com/track/5qRt4howTYyg3XzSNySKO8?si\u003dls3lYi4cS1iQCXXN3vADTA\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/7CgQEvO4DDk"
+          },
+          {
+            "musicName": "Giants",
+            "linkSpotify": "https://open.spotify.com/track/5HmxrDC6RrpkCDtMYQqkqx?si\u003dhtcnX_dqQlijarR7wJIb7Q\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/zCEA-tm0tmQ"
+          },
+          {
+            "musicName": "It\u0027s Ok",
+            "linkSpotify": "https://open.spotify.com/track/0p5UWw5wVyzPOgCIx5T0tn?si\u003dPOCwr5trQPSCPq283SqX3Q\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/W_yRODJ6kfc"
+          },
+          {
+            "musicName": "Dull Knives",
+            "linkSpotify": "https://open.spotify.com/track/3vThV17aiX6dGokusu6j8N?si\u003d-9AhzFeSRxmlvEf8n3C1Qw\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/7mr8go10ICQ"
+          },
+          {
+            "musicName": "Follow You",
+            "linkSpotify": "https://open.spotify.com/track/0LtkAAEpEp1lkLX1ZvjHZb?si\u003dEDMaBHleS0qbMc95qXwxpg\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/k3zimSRKqNw"
+          },
+          {
+            "musicName": "Cutthroat",
+            "linkSpotify": "https://open.spotify.com/track/5KXp9E22MHunsS4W4PNBUf?si\u003dff-fT9s2RkSUR8RRnX3T2A\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/I3byJis039I"
+          },
+          {
+            "musicName": "No Time for Toxic People",
+            "linkSpotify": "https://open.spotify.com/track/2wXfd4Vz6pzJrrPvGhpYz0?si\u003dLQF8WcDhRteZZyKUBqF-xg\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/wJt2qKPZpsk"
+          },
+          {
+            "musicName": "One Day",
+            "linkSpotify": "https://open.spotify.com/track/0xBlufYjHrtf8xk0QifNn1?si\u003dh6WLR-liTTm3tzvL581coA\u0026utm_source\u003dcopy-link",
+            "linkYouTube": "https://youtu.be/NzImKCeQnX0"
+          }
+        ],
+        "background": "#D9B777"
+      }
+    ],
+    "background": "#2b2b2b"
+  }
+]
