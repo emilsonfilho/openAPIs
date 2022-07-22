@@ -74,7 +74,7 @@
         "year": 2015,
         "artist": "Imagine Dragons",
         "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/2f/Smoke_and_Mirrors_album_cover.jpeg/220px-Smoke_and_Mirrors_album_cover.jpeg",
-        "genrer": "Indie rock, rock alternativo",
+        "genre": "Indie rock, rock alternativo",
         "duration": "50:55",
         "language": "English",
         "musics": [
@@ -151,7 +151,7 @@
         "year": 2017,
         "artist": "Imagine Dragons",
         "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b5/ImagineDragonsEvolve.jpg/220px-ImagineDragonsEvolve.jpg",
-        "genrer": "Indie rock, rock alternativo, pop rock",
+        "genre": "Indie rock, rock alternativo, pop rock",
         "duration": "39:12",
         "language": "English",
         "musics": [
@@ -223,7 +223,7 @@
         "year": 2018,
         "artist": "Imagine Dragons",
         "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/e/e9/Origins_Imagine_Dragons.png/220px-Origins_Imagine_Dragons.png",
-        "genrer": "Alternativa/indie, pop",
+        "genre": "Alternativa/indie, pop",
         "duration": "40:02",
         "language": "English",
         "musics": [
@@ -310,7 +310,7 @@
         "year": 2021,
         "artist": "Imagine Dragons",
         "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d9/Imagine_Dragons_-_Mercury_Act_1_capa.png/220px-Imagine_Dragons_-_Mercury_Act_1_capa.png",
-        "genrer": "Pop rock",
+        "genre": "Pop rock",
         "duration": "42:04",
         "language": "English",
         "musics": [
