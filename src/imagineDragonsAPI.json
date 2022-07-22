@@ -156,62 +156,62 @@
         "language": "English",
         "musics": [
           {
-            "nameMusic": "Next To Me",
+            "musicName": "Next To Me",
             "linkSpotify": "https://open.spotify.com/track/31VOknKjFrEX47bZXzqcoF?si\u003dSgnOgLoaRWK27lBq-k2CmQ\u0026utm_source\u003dcopy-link",
             "linkYouTube": "https://youtu.be/-C_rvt0SwLE"
           },
           {
-            "nameMusic": "I Don\u0027t Know Why",
+            "musicName": "I Don\u0027t Know Why",
             "linkSpotify": "https://open.spotify.com/track/28heol5hhOGj6KYbJrRteJ?si\u003dMOJDt12VTdmh9JjIy2F_pw\u0026utm_source\u003dcopy-link",
             "linkYouTube": "https://youtu.be/vP4XUtl7owg"
           },
           {
-            "nameMusic": "Whatever It Takes",
+            "musicName": "Whatever It Takes",
             "linkSpotify": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb?si\u003dqyFrKNV7Q_2xvuxuP_tMgQ\u0026utm_source\u003dcopy-link",
             "linkYouTube": "https://youtu.be/gOsM-DYAEhY"
           },
           {
-            "nameMusic": "Believer",
+            "musicName": "Believer",
             "linkSpotify": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP?si\u003ddSbhyqJOQKCgPesbJM06nw\u0026utm_source\u003dcopy-link",
             "linkYouTube": "https://youtu.be/7wtfhZwyrcc"
           },
           {
-            "nameMusic": "Walking The Wire",
+            "musicName": "Walking The Wire",
             "linkSpotify": "https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08?si\u003d1EeV6x4nRAyeDP0Pj-87jQ\u0026utm_source\u003dcopy-link",
             "linkYouTube": "https://youtu.be/1nv9br7P7g0"
           },
           {
-            "nameMusic": "Rise Up",
+            "musicName": "Rise Up",
             "linkSpotify": "https://open.spotify.com/track/3zT2616WcD9Df5m21OsCX0?si\u003d5UrbPsujSii7haRri2-04g\u0026utm_source\u003dcopy-link",
             "linkYouTube": "https://youtu.be/x12CWu3V0lg"
           },
           {
-            "nameMusic": "I\u0027ll Make It Up To You",
+            "musicName": "I\u0027ll Make It Up To You",
             "linkSpotify": "https://open.spotify.com/track/0FfX0nofboxZjP0diT1eFv?si\u003dXFqugCHNRrSfigG-5Kq3gQ\u0026utm_source\u003dcopy-link",
             "linkYouTube": "https://youtu.be/q6KvD4kZv94"
           },
           {
-            "nameMusic": "Yesterday",
+            "musicName": "Yesterday",
             "linkSpotify": "https://open.spotify.com/track/2SJf7W18D1AEpr8L9ATu0c?si\u003dU7E3rwMHRF65AEUG5EjIJg\u0026utm_source\u003dcopy-link",
             "linkYouTube": "https://youtu.be/dJfYS0rVrbk"
           },
           {
-            "nameMusic": "Mouth Of The River",
+            "musicName": "Mouth Of The River",
             "linkSpotify": "https://open.spotify.com/track/1dekgAFF9uTCqLsklDaCWb?si\u003d95AFR9YDSMKKrOkKyzAW-w\u0026utm_source\u003dcopy-link",
             "linkYouTube": "https://youtu.be/YiZCzG4RF1M"
           },
           {
-            "nameMusic": "Thunder",
+            "musicName": "Thunder",
             "linkSpotify": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB?si\u003d3U6EtO5ySiKXVH_VWoKTQg\u0026utm_source\u003dcopy-link",
             "linkYouTube": "https://youtu.be/fKopy74weus"
           },
           {
-            "nameMusic": "Start Over",
+            "musicName": "Start Over",
             "linkSpotify": "https://open.spotify.com/track/2Iug43iQrHN8CbGsUd2tEt?si\u003d3jjgC5pYTTyDlVhPmnocoQ\u0026utm_source\u003dcopy-link",
             "linkYouTube": "https://youtu.be/2SD2e0TDb4A"
           },
           {
-            "nameMusic": "Dancing In The Dark",
+            "musicName": "Dancing In The Dark",
             "linkSpotify": "https://open.spotify.com/track/3adVVrcE2KS26OL4rYd27O?si\u003dW83fRQq7SOW0Md2QKfNOUw\u0026utm_source\u003dcopy-link",
             "linkYouTube": "https://youtu.be/WFlSIPdYBpE"
           }
